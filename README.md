@@ -1,21 +1,24 @@
 <h1 align="center">¡Hola! Soy Noemi </h1>
-<h2 align="center">Una apasionada Desarrolladora de Software en Perú</h3>
 
-<img src="img/portada.jpg" />
+<img src="img/portada.jpg" width="100%"/>
+
+<h2 align="center">Una apasionada Desarrolladora de Software en Perú</h3>
 
 ###  Actualmente estoy aprendiendo 🌱:
 
-<p align="center">
+<div align="center">
   <!-- REACT -->
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="40">    
   <!-- LARAVEL -->
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" height="40">    
   <!-- TAILWIND -->
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40" >
-</p>
+</div>
+
+<hr>
 
 ### Lenguajes
-<p align="center"> 
+<div align="center"> 
   <!--   HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="40"/> </a>
   <!--   CSS -->
@@ -40,10 +43,10 @@
   <!--   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="40"/> </a> -->
   <!--   DART -->
   <!--   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" height="40"/> </a> -->
-</p>
+</div>
 
 ### Habilidades
-<p align="center">
+<div align="center">
   <!--   ILLUSTRATOR -->
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   <!--   PHOTOSHOP -->
@@ -54,7 +57,9 @@
   <a href="https://git-scm.com/book/en/v2" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <!--   LINUX -->
   <!--   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> -->
-</p>
+</div>
+
+<hr>
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="70%">
