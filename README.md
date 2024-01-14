@@ -1,9 +1,9 @@
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-
 <h1 align="center">¡Hola! Soy Noemi </h1>
-<h3 align="center">Una apasionada Desarrolladora de Software en Perú</h3>
+<h2 align="center">Una apasionada Desarrolladora de Software en Perú</h3>
 
-  Actualmente estoy aprendiendo 🌱:
+<img src="img/portada.jpg" />
+
+###  Actualmente estoy aprendiendo 🌱:
 
 <p align="center">
   <!-- REACT -->
@@ -14,7 +14,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40" >
 </p>
 
-<h3 align="left">Lenguajes:</h3>
+### Lenguajes
 <p align="center"> 
   <!--   HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="40"/> </a>
@@ -42,7 +42,7 @@
   <!--   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" height="40"/> </a> -->
 </p>
 
-<h3 align="left">Habilidades:</h3>
+### Habilidades
 <p align="center">
   <!--   ILLUSTRATOR -->
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
@@ -56,4 +56,6 @@
   <!--   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> -->
 </p>
 
-<img src="img/portada.jpg" />
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="70%">
+</div>
