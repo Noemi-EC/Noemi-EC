@@ -2,7 +2,7 @@
 
 <img src="img/portada.jpg" width="100%"/>
 
-<h2 align="center">Una apasionada Desarrolladora de Software en Perú</h3>
+<h2 align="center">Ingeniera de Software</h3>
 
 ###  Actualmente estoy aprendiendo 🌱:
 
@@ -12,9 +12,9 @@
   <!-- LARAVEL -->
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" height="40">    
   <!-- TAILWIND -->
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40" >
+<!--  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40" >
 </div>
-
+-->
 <hr>
 
 ### Lenguajes
