@@ -52,22 +52,13 @@
 ### Actividad en GitHub
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Noemi-EC/Noemi-EC/output/github-snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/Noemi-EC/Noemi-EC/output/github-snake.svg" alt="Serpiente recorriendo mis contribuciones" width="100%"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/Noemi-EC/Noemi-EC/output/github-snake-dark.svg" alt="Serpiente recorriendo mis contribuciones" width="100%"/>
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Noemi-EC&locale=es&hide_border=true&border_radius=10&background=10302A&stroke=1F4A40&ring=6EE7B7&fire=A5B4FC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6EE7B7&sideLabels=E6F4EF&dates=9FBFB3" alt="Racha de contribuciones" height="170"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noemi-EC&custom_title=Mis%20contribuciones&hide_border=true&radius=10&bg_color=10302A&color=E6F4EF&title_color=6EE7B7&line=6EE7B7&point=A5B4FC&area=true&area_color=6EE7B7" alt="Gráfico de actividad" width="100%"/>
 </div>
 
 <hr>
