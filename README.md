@@ -1,66 +1,85 @@
-<h1 align="center">¡Hola! Soy Noemi </h1>
+<h1 align="center">¡Hola! Soy Noemi 👋</h1>
 
-<img src="img/portada.jpg" width="100%"/>
+<img src="img/Banner%20A%20%C2%B7%20Terminal@1x.png" width="100%" alt="Noemi Espinoza </NE>"/>
 
-<h2 align="center">Ingeniera de Software</h3>
+<h2 align="center">Desarrolladora de Software · Backend & Móvil</h2>
 
-###  Actualmente estoy aprendiendo 🌱:
-
-<div align="center">
-  <!-- REACT -->
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="40">    
-  <!-- LARAVEL -->
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" height="40">    
-  <!-- TAILWIND -->
-<!--  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40" >
-</div>
--->
-<hr>
-
-### Lenguajes
-<div align="center"> 
-  <!--   HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="40"/> </a>
-  <!--   CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" height="40" /> </a>
-  <!--   BOOTSTRAP -->
-  <!--   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="40"/> </a> -->
-  <!--   JAVASCRIPT -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/> </a>
-  <!--   MYSQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/> </a>
-  <!--   ORACLE -->
-    <!-- <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" height="40"/> </a> -->
-  <!--   MICROSOFT SERVER -->
-  <!--   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="40"/> </a> -->
-  <!--   PHP -->
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="40"/> </a>
-  <!--   PYTHON -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/> </a>
-  <!--   JAVA -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="40"/> </a>
-  <!--   C# -->
-  <!--   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="40"/> </a> -->
-  <!--   DART -->
-  <!--   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" height="40"/> </a> -->
-</div>
-
-### Habilidades
-<div align="center">
-  <!--   ILLUSTRATOR -->
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  <!--   PHOTOSHOP -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  <!--   FIGMA -->
-  <a href="https://www.youtube.com/@Figma/featured" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-  <!--   GIT -->
-  <a href="https://git-scm.com/book/en/v2" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <!--   LINUX -->
-  <!--   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> -->
-</div>
+<p align="center">
+  Técnica en Ingeniería de Software con IA (SENATI) y estudiante de Ingeniería de Software en la UTP.<br>
+  Trabajo en el área de TI de una empresa de transmisión y geolocalización GPS.
+</p>
 
 <hr>
 
+### 🙋‍♀️ Sobre mí
+
+- 💻 En el trabajo desarrollo sobre todo con **JavaScript / TypeScript**: APIs, bots e integraciones.
+- 🐧 Me encargo también de servidores Linux: **Docker, PM2, Nginx** y certificados SSL.
+- 📱 En la universidad estoy construyendo apps móviles con **React Native**.
+- 🐍 Me gusta mucho **Python** y lo uso para mis proyectos personales.
+
+### 🌱 En lo que ando ahora
+
+- Backends con **NestJS** y arquitectura limpia sobre **PostgreSQL**.
+- Una herramienta para probar APIs, tipo Postman, que se pueda usar localmente.
+- Convertir un celular Android viejo en un servidor de pruebas con **Termux**.
+
+<hr>
+
+### Tecnologías
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Lenguajes</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css&theme=dark" alt="JavaScript, TypeScript, Python, Java, HTML, CSS"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frameworks</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,react&theme=dark" alt="Node.js, NestJS, React / React Native"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Bases de datos</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL, MySQL"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Servidores y herramientas</b></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,git,vscode,postman&theme=dark" alt="Linux, Ubuntu, Docker, Nginx, Git, VS Code, Postman"/></td>
+  </tr>
+</table>
+
+<hr>
+
+### Actividad en GitHub
+
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="70%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Noemi-EC/Noemi-EC/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/Noemi-EC/Noemi-EC/output/github-snake.svg" alt="Serpiente recorriendo mis contribuciones" width="100%"/>
+  </picture>
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Noemi-EC&locale=es&hide_border=true&border_radius=10&background=10302A&stroke=1F4A40&ring=6EE7B7&fire=A5B4FC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6EE7B7&sideLabels=E6F4EF&dates=9FBFB3" alt="Racha de contribuciones" height="170"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noemi-EC&custom_title=Mis%20contribuciones&hide_border=true&radius=10&bg_color=10302A&color=E6F4EF&title_color=6EE7B7&line=6EE7B7&point=A5B4FC&area=true&area_color=6EE7B7" alt="Gráfico de actividad" width="100%"/>
+</div>
+
+<hr>
+
+### Contacto
+
+<p align="center">
+  <!-- Cambia TU-USUARIO por tu usuario de LinkedIn -->
+  <a href="https://www.linkedin.com/in/maría-espinoza-423545271" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://gitlab.com/Noemi-EC" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  </a>
+</p>
